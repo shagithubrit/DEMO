@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20ChatCool%20Bot;Contributed%20to%201500+%2B%20servers%20inside%20Discord;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/Thinkright20">Thinkright20</a></h3>
+<h3 align="center">Hi 👋, I'm  <a href="https://github.com/shagithubrit">Shashwat Kapoor</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://ko-fi.com/chatcool"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/-Kofi-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>
 <a href="https://github.com/Thinkright20?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thinkright20?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-   <a href="https://github.com/thinkright20"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+   <a href="https://github.com/shagithubrit"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thinkright20?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
  
 ## Profile Views
@@ -33,15 +33,15 @@
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/shagithubrit"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
 
 ## What I'm Doing
 
-- 🔭 Working on ChatCool (Bot)
-- 🌱 Learning Node.js & more
+- 🔭 Working on Java SpringBoot
+- 🌱 Learning Java FX & more
 - 📫 How to contact me: https://scratch.mit.edu/users/Thinkright20man/, thinkright20 (Discord), 
 
 Support ChatCool on KoFi:
@@ -50,7 +50,7 @@ Support ChatCool on KoFi:
 
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/shagithubrit"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
 ## My Stats:
 <p align="center">
@@ -60,7 +60,7 @@ Support ChatCool on KoFi:
 ## Activity On GitHub:
 
 <p align="center">
-  <a href="https://github.com/Thinkright20">      
+  <a href="https://github.com/shagithubrit">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
